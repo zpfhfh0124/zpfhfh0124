@@ -1,6 +1,6 @@
 # Hi, I'm Kyeongtae Moon (문경태 / 文景泰) 👋
 
-🇺🇸 English&nbsp;|&nbsp;[🇯🇵 日本語](README.ja.md)
+🇺🇸 English&nbsp;|&nbsp;[🇯🇵 日本語](README.JP.md)
 
 **Game Client Developer** — C++ / C# · Unity · Unreal Engine 5/4
 5+ years of experience (Unity: 4.5 years, plus Unreal Engine 5 experience)
