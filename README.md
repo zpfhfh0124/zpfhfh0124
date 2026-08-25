@@ -141,5 +141,5 @@ Rather than relying on GitHub commit history alone, I keep a curated archive of 
 
 ## Get in Touch
 
-- Portfolio: `[ Portfolio.KR ](https://drive.google.com/file/d/1Q8_2gciXw_UbDPHGQjs476y7HYCNIKex/view?usp=sharing)`
-- Email: `[ yuki79000@gmail.com ](mailto:yuki79000@gmail.com)`
+- Portfolio (PDF): [한국어](https://drive.google.com/file/d/1Q8_2gciXw_UbDPHGQjs476y7HYCNIKex/view?usp=sharing) · [日本語](https://drive.google.com/file/d/1eFbF7LYRC4iME7W3O7-ij-fg2vke-lZ3/view?usp=sharing)
+- Email: [yuki79000@gmail.com](mailto:yuki79000@gmail.com)
