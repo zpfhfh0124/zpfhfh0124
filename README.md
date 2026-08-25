@@ -9,7 +9,9 @@ I'm a game client developer who learns engines by building with them — recreat
 
 ---
 
-## Featured Projects
+## Sample Code
+
+Rather than relying on GitHub commit history alone, here are three pieces of code I'm proud of, with notes on the design decisions behind each — the rest of my curated archive is linked under Get in Touch below.
 
 ### 🎮 [Misaka-](https://github.com/zpfhfh0124/Misaka-) — Custom 2D Game Engine (Win32/GDI, C++)
 A ~6,000-line 2D engine built from scratch, without a commercial engine underneath.
@@ -132,10 +134,6 @@ void UUIWidgetMain::SetImGuiTestActor()
 **Languages:** C++, C#, C
 **Engines:** Unity (4.5 yrs), Unreal Engine 5, Unreal Engine 4
 **Focus areas:** Gameplay/character systems, toon/cel-shaded rendering, engine tooling (ImGui), algorithm problem solving
-
-## Sample Code
-
-Rather than relying on GitHub commit history alone, I keep a curated archive of my strongest code (with notes on the design decisions behind each piece) for review — see the CV / sample archive linked on my portfolio.
 
 <!-- TODO: paiza 랭크 취득 시 배지/링크 추가 -->
 
