@@ -2,7 +2,7 @@
 
 🇺🇸 English&nbsp;|&nbsp;[🇯🇵 日本語](README.JP.md)
 
-**Game Client Developer** — C++ / C# · Unity · Unreal Engine 5/4
+**Game Client Developer** — C++ / C# · Unity · Unreal Engine 5
 5+ years of experience (Unity: 4.5 years, plus Unreal Engine 5 experience)
 
 I'm a game client developer who learns engines by building with them — recreating known characters/games in Unreal Engine 4/5 and Unity, and integrating tooling like ImGui, while also keeping algorithm fundamentals sharp through daily problem solving. I'm especially interested in **toon/cel-shaded rendering**, and I grow by consistently working through problems hands-on rather than just studying theory — that steady, problem-driven habit is my biggest strength as a developer.
