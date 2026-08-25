@@ -1,4 +1,4 @@
-# Hi, I'm Kyeongtae Moon (문경태 / 文景泰) 👋
+# Hi, I'm Kyeongtae Moon 👋
 
 🇺🇸 English&nbsp;|&nbsp;[🇯🇵 日本語](README.JP.md)
 
