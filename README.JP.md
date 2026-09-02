@@ -142,5 +142,5 @@ void UUIWidgetMain::SetImGuiTestActor()
 
 ## お問い合わせ
 
-- ポートフォリオ (PDF): [한국어 / 韓国語](https://drive.google.com/file/d/1Q8_2gciXw_UbDPHGQjs476y7HYCNIKex/view?usp=sharing) · [日本語](https://drive.google.com/file/d/1eFbF7LYRC4iME7W3O7-ij-fg2vke-lZ3/view?usp=sharing)
+- ポートフォリオ (PDF): [한국어 / 韓国語](https://canva.link/0n2c330t6z45v85) · [日本語](https://canva.link/5oaydl44ak1jmwy)
 - メール: [yuki79000@gmail.com](mailto:yuki79000@gmail.com)
