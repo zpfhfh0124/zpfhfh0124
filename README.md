@@ -139,5 +139,5 @@ void UUIWidgetMain::SetImGuiTestActor()
 
 ## Get in Touch
 
-- Portfolio (PDF): [한국어](https://drive.google.com/file/d/1Q8_2gciXw_UbDPHGQjs476y7HYCNIKex/view?usp=sharing) · [日本語](https://drive.google.com/file/d/1tIWVTJJ0urTxC1sxyQ6Bpj-LIRsWApbl/view?usp=sharing)
+- Portfolio (PDF): [한국어](https://canva.link/0n2c330t6z45v85) · [日本語](https://canva.link/5oaydl44ak1jmwy)
 - Email: [yuki79000@gmail.com](mailto:yuki79000@gmail.com)
