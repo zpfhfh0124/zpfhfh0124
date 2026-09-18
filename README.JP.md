@@ -1,6 +1,6 @@
 # Hi, I'm Kyeongtae Moon (문경태 / 文 景泰) 👋
 
-[🇺🇸 English](README.md)&nbsp;|&nbsp;🇯🇵 日本語
+[🇺🇸 English](README.md)&nbsp;|&nbsp;[🇰🇷 한국어](README.KO.md)&nbsp;|&nbsp;🇯🇵 日本語
 
 **ゲームクライアントエンジニア** — C++ / C# · Unity · Unreal Engine 5
 実務経験5年以上(Unity:4.5年、加えてUnreal Engine 5の経験あり)
