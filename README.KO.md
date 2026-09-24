@@ -2,8 +2,7 @@
 
 [🇺🇸 English](README.md)&nbsp;|&nbsp;🇰🇷 한국어&nbsp;|&nbsp;[🇯🇵 日本語](README.JP.md)
 
-**게임 클라이언트 개발자** — C++ / C# · Unity · Unreal Engine 5
-5년+ 실무 경력 (Unity 4.5년 + Unreal Engine 5 경험)
+**게임 클라이언트 개발자** — C++ / C# · Unity · Unreal Engine 5 + 실무 경력 (Unity 4.5년 + Unreal Engine 5 경험)
 
 직접 만들어보면서 엔진을 익히는 게임 클라이언트 개발자입니다. Unreal Engine 4/5와 Unity로 잘 알려진 캐릭터·게임을 재현해보고, ImGui 같은 툴을 엔진에 직접 통합해보며, 매일 알고리즘 문제를 풀면서 기본기도 놓지 않고 있습니다. 특히 **툰(셀 셰이딩) 렌더링**에 관심이 많고, 이론만 파기보다는 직접 부딪혀 문제를 해결하며 성장하는 편입니다 — 이 꾸준한 문제 해결 습관이 개발자로서 제 가장 큰 강점이라고 생각합니다.
 
